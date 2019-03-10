@@ -24,11 +24,13 @@ var Server = /** @class */ (function () {
                 TLS: ''
             }
         });
-        console.log(api);
     };
     Server.prototype.close = function () {
         if (this.api) {
             this.api.kill();
+        }
+        else {
+            throw Error("api is not operating");
         }
     };
     return Server;
