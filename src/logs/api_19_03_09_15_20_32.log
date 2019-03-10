@@ -1,0 +1,5 @@
+I 2019-03-09.15:20:32.434 Beam Wallet API 1.2.4416 (testnet)
+I 2019-03-09.15:20:32.434 Rules signature: cfa9cf691cfe775a
+D 2019-03-09.15:20:32.513 sqlite error code=26, file is not a database
+E 2019-03-09.15:20:32.513 Wallet not opened.
+D 2019-03-09.15:20:32.513 ~Reactor

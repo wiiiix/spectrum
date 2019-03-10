@@ -1,0 +1,1526 @@
+D 2019-03-10.12:18:26.089 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:18:26.089 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:18:31.096 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:18:31.096 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:18:36.130 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:18:36.130 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:18:41.141 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:18:41.141 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:18:46.148 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:18:46.148 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:18:51.157 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:18:51.157 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:18:56.165 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:18:56.165 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:19:01.170 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:19:01.170 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:19:06.178 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:19:06.178 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:19:11.184 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:19:11.184 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:19:16.190 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:19:16.190 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:19:36.204 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:19:36.205 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:19:41.208 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:19:41.208 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:19:46.216 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:19:46.216 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:19:51.226 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:19:51.226 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:19:56.234 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:19:56.234 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:20:01.241 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:20:01.241 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:20:06.246 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:20:06.246 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:20:11.254 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:20:11.255 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:20:16.262 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:20:16.262 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:20:21.267 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:20:21.267 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:20:26.276 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:20:26.276 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:20:31.284 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:20:31.284 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:20:36.290 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:20:36.291 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:20:41.297 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:20:41.297 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:20:46.305 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:20:46.305 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:20:51.313 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:20:51.313 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:20:56.319 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:20:56.320 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:21:01.331 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:21:01.331 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:21:06.336 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:21:06.336 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:21:11.343 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:21:11.343 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:21:16.351 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:21:16.351 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:21:21.356 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:21:21.356 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:21:26.383 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:21:26.383 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:21:31.390 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:21:31.390 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:21:36.393 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:21:36.393 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:21:41.398 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:21:41.398 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:21:46.405 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:21:46.405 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:21:51.438 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:21:51.438 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:21:56.443 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:21:56.443 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:22:01.452 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:22:01.452 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:22:06.487 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:22:06.487 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:22:11.497 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:22:11.497 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:22:16.501 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:22:16.501 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:22:21.508 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:22:21.508 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:22:26.539 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:22:26.539 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:22:31.548 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:22:31.548 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:22:36.553 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:22:36.553 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:22:41.588 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:22:41.588 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:22:46.595 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:22:46.595 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:22:51.598 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:22:51.598 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:22:56.602 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:22:56.602 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:23:01.608 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:23:01.609 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:23:06.638 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:23:06.638 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:23:11.646 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:23:11.646 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:23:16.654 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:23:16.654 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:23:21.685 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:23:21.685 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:23:26.692 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:23:26.692 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:23:31.701 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:23:31.701 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:23:36.707 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:23:36.707 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:23:41.737 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:23:41.737 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:23:46.742 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:23:46.742 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:23:51.747 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:23:51.747 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:23:56.757 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:23:56.757 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:24:01.788 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:24:01.788 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:24:06.793 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:24:06.794 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:24:11.798 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:24:11.798 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:24:16.803 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:24:16.803 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:24:21.809 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:24:21.809 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:24:26.835 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:24:26.835 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:24:31.842 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:24:31.842 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:24:36.848 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:24:36.848 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:24:41.852 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:24:41.853 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:24:46.858 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:24:46.858 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:24:51.867 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:24:51.867 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:24:56.876 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:24:56.876 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:25:01.883 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:25:01.883 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:25:06.892 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:25:06.892 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:25:11.898 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:25:11.898 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:25:16.902 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:25:16.902 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:25:21.906 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:25:21.906 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:25:26.910 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:25:26.910 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:25:31.917 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:25:31.917 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:25:36.923 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:25:36.923 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:25:41.927 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:25:41.927 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:25:46.935 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:25:46.935 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:25:51.942 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:25:51.942 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:25:56.949 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:25:56.949 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:26:01.958 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:26:01.958 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:26:06.963 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:26:06.963 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:26:11.983 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:26:11.983 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:26:16.991 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:26:16.991 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:26:21.996 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:26:21.996 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:26:27.004 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:26:27.004 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:26:32.008 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:26:32.008 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:26:37.031 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:26:37.031 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:26:42.038 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:26:42.038 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:26:47.042 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:26:47.042 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:26:52.049 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:26:52.049 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:26:57.051 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:26:57.051 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:27:02.056 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:27:02.057 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:27:07.060 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:27:07.060 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:27:12.069 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:27:12.069 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:27:17.077 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:27:17.078 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:27:22.085 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:27:22.085 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:27:27.090 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:27:27.091 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:27:32.094 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:27:32.094 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:27:37.101 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:27:37.101 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:27:42.109 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:27:42.109 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:27:47.115 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:27:47.115 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:27:52.120 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:27:52.120 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:27:57.125 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:27:57.125 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:28:02.131 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:28:02.132 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:28:07.139 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:28:07.139 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:28:12.147 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:28:12.148 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:28:17.152 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:28:17.152 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:28:22.156 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:28:22.156 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:28:27.163 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:28:27.163 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:28:32.182 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:28:32.182 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:28:37.189 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:28:37.189 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:28:42.192 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:28:42.192 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:28:47.198 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:28:47.198 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:28:52.206 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:28:52.206 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:28:57.213 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:28:57.213 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:29:02.232 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:29:02.232 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:29:07.237 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:29:07.237 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:29:12.240 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:29:12.241 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:29:17.244 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:29:17.244 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:29:22.249 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:29:22.249 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:29:27.257 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:29:27.258 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:29:32.266 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:29:32.266 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:29:37.284 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:29:37.284 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:29:42.294 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:29:42.294 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:29:47.302 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:29:47.302 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:29:52.310 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:29:52.310 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:29:57.318 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:29:57.318 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:30:02.333 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:30:02.334 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:30:07.341 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:30:07.341 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:30:12.350 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:30:12.350 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:30:17.360 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:30:17.360 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:30:22.366 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:30:22.366 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:30:27.382 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:30:27.382 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:30:32.389 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:30:32.389 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:30:37.397 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:30:37.397 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:30:42.401 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:30:42.401 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:30:47.407 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:30:47.408 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:30:52.411 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:30:52.412 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:30:57.418 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:30:57.418 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:31:02.435 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:31:02.436 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:31:07.441 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:31:07.441 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:31:12.447 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:31:12.448 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:31:17.453 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:31:17.453 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:31:22.461 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:31:22.461 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:31:27.467 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:31:27.468 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:31:32.484 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:31:32.484 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:31:37.492 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:31:37.492 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:31:42.499 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:31:42.500 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:31:47.508 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:31:47.508 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:31:52.517 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:31:52.518 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:31:57.532 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:31:57.532 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:32:02.538 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:32:02.538 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:32:07.545 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:32:07.545 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:32:12.552 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:32:12.553 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:32:17.560 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:32:17.560 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:32:22.570 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:32:22.570 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:32:27.586 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:32:27.586 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:32:32.592 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:32:32.592 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:32:37.599 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:32:37.600 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:32:42.605 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:32:42.606 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:32:47.609 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:32:47.609 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:32:52.612 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:32:52.612 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:32:57.618 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:32:57.618 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:33:02.638 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:33:02.638 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:33:07.645 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:33:07.645 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:33:12.650 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:33:12.651 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:33:17.659 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:33:17.659 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:33:22.666 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:33:22.667 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:33:27.672 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:33:27.672 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:33:32.690 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:33:32.690 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:33:37.698 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:33:37.701 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:33:42.706 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:33:42.706 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:33:47.713 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:33:47.713 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:33:52.720 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:33:52.720 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:33:57.735 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:33:57.735 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:34:02.743 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:34:02.743 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:34:07.749 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:34:07.750 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:34:12.754 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:34:12.754 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:34:17.763 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:34:17.763 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:34:22.768 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:34:22.768 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:34:27.771 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:34:27.771 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:34:32.775 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:34:32.775 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:34:37.790 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:34:37.790 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:34:42.798 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:34:42.798 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:34:47.807 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:34:47.808 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:34:52.814 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:34:52.814 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:34:57.820 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:34:57.820 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:35:02.837 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:35:02.837 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:35:07.846 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:35:07.846 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:35:12.852 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:35:12.852 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:35:17.858 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:35:17.858 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:35:22.868 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:35:22.868 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:35:27.877 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:35:27.877 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:35:32.891 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:35:32.891 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:35:37.896 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:35:37.896 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:35:42.899 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:35:42.900 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:35:47.906 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:35:47.906 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:35:52.913 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:35:52.913 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:35:57.920 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:35:57.920 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:36:02.927 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:36:02.928 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:36:07.943 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:36:07.943 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:36:12.952 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:36:12.952 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:36:17.961 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:36:17.961 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:36:22.968 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:36:22.968 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:36:27.978 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:36:27.978 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:36:32.992 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:36:32.992 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:36:38.002 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:36:38.003 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:36:43.005 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:36:43.005 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:36:48.016 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:36:48.016 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:36:53.019 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:36:53.019 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:36:58.026 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:36:58.026 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:37:03.028 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:37:03.028 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:37:08.041 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:37:08.041 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:37:13.048 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:37:13.048 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:37:18.055 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:37:18.055 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:37:23.062 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:37:23.062 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:37:28.069 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:37:28.070 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:37:33.075 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:37:33.075 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:37:38.080 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:37:38.081 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:37:43.093 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:37:43.093 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:37:48.099 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:37:48.099 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:37:53.107 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:37:53.108 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:37:58.112 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:37:58.112 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:38:03.121 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:38:03.121 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:38:08.127 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:38:08.127 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:38:13.143 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:38:13.144 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:38:18.151 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:38:18.151 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:38:23.158 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:38:23.158 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:38:28.166 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:38:28.166 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:38:33.177 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:38:33.177 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:38:38.193 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:38:38.194 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:38:43.201 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:38:43.201 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:38:48.208 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:38:48.208 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:38:53.214 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:38:53.214 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:38:58.220 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:38:58.220 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:39:03.228 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:39:03.229 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:39:08.244 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:39:08.244 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:39:13.252 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:39:13.252 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:39:18.259 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:39:18.259 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:39:23.268 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:39:23.268 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:39:28.277 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:39:28.277 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:39:33.285 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:39:33.285 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:39:38.298 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:39:38.299 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:39:43.307 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:39:43.307 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:39:48.318 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:39:48.318 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:39:53.326 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:39:53.327 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:39:58.336 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:39:58.336 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:40:03.348 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:40:03.348 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:40:08.355 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:40:08.356 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:40:13.364 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:40:13.364 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:40:18.372 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:40:18.373 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:40:23.381 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:40:23.382 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:40:28.399 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:40:28.399 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:40:33.407 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:40:33.407 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:40:38.417 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:40:38.418 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:40:43.422 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:40:43.422 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:40:48.428 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:40:48.428 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:40:53.434 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:40:53.434 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:40:58.449 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:40:58.450 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:41:03.454 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:41:03.454 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:41:08.463 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:41:08.463 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:41:13.471 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:41:13.471 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:41:18.476 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:41:18.476 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:41:23.486 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:41:23.486 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:41:28.503 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:41:28.503 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:41:33.511 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:41:33.511 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:41:38.519 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:41:38.519 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:41:43.529 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:41:43.529 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:41:48.535 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:41:48.535 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:41:53.543 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:41:53.543 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:41:58.545 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:41:58.545 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:42:03.550 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:42:03.550 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:42:08.557 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:42:08.557 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:42:13.562 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:42:13.562 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:42:18.578 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:42:18.578 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:42:23.586 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:42:23.586 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:42:28.591 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:42:28.591 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:42:33.598 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:42:33.598 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:42:38.603 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:42:38.603 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:42:43.608 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:42:43.608 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:42:48.625 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:42:48.625 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:42:53.633 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:42:53.633 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:42:58.639 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:42:58.639 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:43:03.648 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:43:03.648 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:43:08.651 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:43:08.651 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:43:13.658 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:43:13.659 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:43:18.675 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:43:18.675 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:43:23.683 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:43:23.683 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:43:28.691 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:43:28.691 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:43:33.700 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:43:33.700 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:43:38.706 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:43:38.706 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:43:43.723 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:43:43.723 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:43:48.733 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:43:48.733 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:43:53.735 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:43:53.735 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:43:58.742 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:43:58.742 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:44:03.751 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:44:03.751 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:44:08.760 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:44:08.760 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:44:13.776 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:44:13.777 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:44:18.785 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:44:18.785 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:44:23.792 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:44:23.793 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:44:28.800 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:44:28.800 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:44:33.809 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:44:33.809 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:44:38.826 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:44:38.826 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:44:43.835 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:44:43.835 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:44:48.843 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:44:48.843 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:44:53.853 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:44:53.853 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:44:58.860 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:44:58.860 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:45:03.874 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:45:03.874 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:45:08.884 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:45:08.884 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:45:13.892 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:45:13.893 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:45:18.900 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:45:18.900 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:45:23.905 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:45:23.905 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:45:28.913 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:45:28.913 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:45:33.927 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:45:33.927 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:45:38.933 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:45:38.933 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:45:43.941 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:45:43.941 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:45:48.950 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:45:48.950 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:45:53.957 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:45:53.957 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:45:58.974 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:45:58.975 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:46:03.984 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:46:03.984 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:46:08.987 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:46:08.987 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:46:13.993 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:46:13.993 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:46:19.000 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:46:19.000 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:46:24.007 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:46:24.007 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:46:29.015 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:46:29.015 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:46:34.027 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:46:34.027 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:46:39.037 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:46:39.037 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:46:44.044 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:46:44.044 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:46:49.052 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:46:49.052 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:46:54.060 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:46:54.060 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:46:59.065 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:46:59.065 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:47:04.080 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:47:04.080 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:47:09.087 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:47:09.087 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:47:14.096 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:47:14.096 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:47:19.101 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:47:19.101 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:47:24.108 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:47:24.108 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:47:29.113 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:47:29.113 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:47:34.129 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:47:34.129 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:47:39.136 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:47:39.136 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:47:44.145 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:47:44.145 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:47:49.153 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:47:49.153 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:47:54.159 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:47:54.159 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:47:59.163 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:47:59.163 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:48:04.169 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:48:04.169 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:48:09.182 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:48:09.182 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:48:14.193 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:48:14.193 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:48:19.198 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:48:19.198 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:48:24.208 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:48:24.208 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:48:29.213 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:48:29.213 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:48:34.218 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:48:34.218 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:48:39.235 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:48:39.235 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:48:44.242 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:48:44.242 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:48:49.252 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:48:49.252 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:48:54.260 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:48:54.261 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:48:59.268 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:48:59.268 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:49:04.287 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:49:04.287 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:49:09.297 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:49:09.297 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:49:14.304 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:49:14.304 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:49:19.313 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:49:19.313 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:49:24.321 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:49:24.321 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:49:29.337 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:49:29.337 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:49:34.341 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:49:34.341 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:49:39.344 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:49:39.344 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:49:44.349 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:49:44.349 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:49:49.356 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:49:49.356 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:49:54.361 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:49:54.361 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:49:59.368 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:49:59.368 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:50:04.386 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:50:04.386 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:50:09.398 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:50:09.398 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:50:14.402 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:50:14.402 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:50:19.410 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:50:19.410 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:50:24.415 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:50:24.415 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:50:29.422 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:50:29.422 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:50:34.439 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:50:34.440 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:50:39.445 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:50:39.446 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:50:44.453 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:50:44.453 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:50:49.461 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:50:49.461 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:50:54.468 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:50:54.468 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:50:59.474 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:50:59.474 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:51:04.496 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:51:04.497 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:51:09.504 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:51:09.505 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:51:14.509 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:51:14.509 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:51:19.519 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:51:19.519 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:51:24.552 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:51:24.552 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:51:29.558 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:51:29.558 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:51:34.565 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:51:34.565 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:51:39.573 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:51:39.573 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:51:44.608 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:51:44.609 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:51:49.616 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:51:49.616 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:51:54.619 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:51:54.620 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:51:59.658 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:51:59.658 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:52:04.666 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:52:04.666 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:52:09.671 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:52:09.671 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:52:14.712 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:52:14.712 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:52:19.716 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:52:19.716 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:52:24.720 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:52:24.721 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:52:29.760 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:52:29.760 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:52:34.764 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:52:34.765 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:52:39.776 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:52:39.776 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:52:44.814 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:52:44.815 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:52:49.822 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:52:49.822 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:52:54.864 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:52:54.864 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:52:59.870 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:52:59.870 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:53:04.876 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:53:04.876 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:53:09.916 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:53:09.916 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:53:14.920 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:53:14.920 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:53:19.925 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:53:19.925 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:53:25.972 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:53:25.973 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:53:30.016 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:53:30.017 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:53:35.022 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:53:35.022 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:53:40.027 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:53:40.027 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:53:45.063 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:53:45.063 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:53:50.071 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:53:50.071 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:53:55.077 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:53:55.077 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:54:00.113 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:54:00.113 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:54:05.121 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:54:05.121 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:54:10.129 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:54:10.129 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:54:15.163 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:54:15.163 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:54:20.167 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:54:20.167 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:54:25.174 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:54:25.174 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:54:30.210 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:54:30.210 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:54:35.217 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:54:35.217 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:54:40.227 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:54:40.227 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:54:45.260 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:54:45.260 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:54:50.264 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:54:50.264 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:54:55.274 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:54:55.274 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:55:00.278 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:55:00.278 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:55:05.310 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:55:05.310 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:55:10.319 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:55:10.319 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:55:15.327 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:55:15.327 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:55:20.360 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:55:20.360 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:55:25.368 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:55:25.369 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:55:30.377 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:55:30.377 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:55:35.406 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:55:35.406 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:55:40.412 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:55:40.412 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:55:45.422 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:55:45.422 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:55:50.427 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:55:50.427 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:55:55.454 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:55:55.454 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:56:00.459 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:56:00.460 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:56:05.466 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:56:05.466 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:56:10.475 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:56:10.475 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:56:15.482 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:56:15.482 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:56:20.500 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:56:20.500 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:56:25.509 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:56:25.509 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:56:30.514 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:56:30.514 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:56:35.519 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:56:35.519 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:56:40.522 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:56:40.522 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:56:45.529 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:56:45.529 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:56:50.536 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:56:50.536 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:56:55.545 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:56:55.545 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:57:00.551 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:57:00.551 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:57:05.560 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:57:05.560 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:57:10.570 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:57:10.570 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:57:15.577 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:57:15.577 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:57:20.586 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:57:20.586 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:57:25.593 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:57:25.594 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:57:30.601 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:57:30.601 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:57:35.610 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:57:35.610 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:57:40.616 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:57:40.617 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:57:45.620 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:57:45.621 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:57:50.627 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:57:50.627 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:57:55.636 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:57:55.637 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:58:00.643 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:58:00.643 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:58:05.654 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:58:05.654 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:58:10.663 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:58:10.663 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:58:15.670 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:58:15.670 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:58:20.678 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:58:20.678 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:58:25.686 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:58:25.686 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:58:30.695 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:58:30.695 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:58:35.700 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:58:35.700 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:58:40.710 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:58:40.710 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:58:45.716 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:58:45.716 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:58:50.721 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:58:50.721 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:58:55.729 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:58:55.729 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:59:00.737 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:59:00.737 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:59:05.743 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:59:05.743 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:59:10.752 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:59:10.752 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:59:15.761 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:59:15.761 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:59:20.769 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:59:20.769 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:59:25.776 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:59:25.776 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:59:30.784 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:59:30.784 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:59:35.790 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:59:35.791 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:59:40.809 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:59:40.810 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:59:45.817 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:59:45.817 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:59:50.822 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:59:50.822 on_new_message int(type)=35 ret=0
+D 2019-03-10.12:59:55.827 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.12:59:55.827 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:00:00.835 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:00:00.836 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:00:05.844 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:00:05.844 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:00:10.863 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:00:10.863 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:00:15.867 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:00:15.867 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:00:20.874 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:00:20.875 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:00:25.881 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:00:25.881 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:00:30.889 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:00:30.889 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:00:35.894 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:00:35.894 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:00:40.911 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:00:40.911 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:00:45.921 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:00:45.921 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:00:50.929 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:00:50.929 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:00:55.937 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:00:55.937 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:01:00.946 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:01:00.946 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:01:05.962 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:01:05.962 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:01:10.967 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:01:10.967 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:01:15.973 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:01:15.973 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:01:20.981 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:01:20.982 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:01:25.987 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:01:25.987 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:01:30.996 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:01:30.996 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:01:36.011 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:01:36.011 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:01:41.019 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:01:41.019 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:01:46.027 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:01:46.027 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:01:51.035 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:01:51.035 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:01:56.039 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:01:56.039 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:02:01.046 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:02:01.046 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:02:06.060 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:02:06.060 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:02:11.065 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:02:11.065 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:02:16.070 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:02:16.070 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:02:21.076 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:02:21.076 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:02:26.084 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:02:26.084 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:02:31.089 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:02:31.089 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:02:36.095 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:02:36.095 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:02:41.109 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:02:41.109 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:02:46.117 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:02:46.117 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:02:51.125 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:02:51.125 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:02:56.132 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:02:56.132 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:03:01.140 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:03:01.140 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:03:06.149 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:03:06.149 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:03:11.161 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:03:11.161 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:03:16.170 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:03:16.170 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:03:21.178 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:03:21.178 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:03:26.187 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:03:26.187 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:03:31.197 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:03:31.197 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:03:36.210 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:03:36.210 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:03:41.220 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:03:41.220 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:03:46.235 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:03:46.235 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:03:51.246 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:03:51.246 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:03:56.262 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:03:56.262 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:04:01.272 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:04:01.272 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:04:06.279 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:04:06.279 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:04:11.285 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:04:11.285 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:04:16.294 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:04:16.294 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:04:21.300 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:04:21.300 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:04:26.309 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:04:26.309 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:04:31.314 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:04:31.314 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:04:36.329 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:04:36.329 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:04:41.343 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:04:41.343 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:04:46.362 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:04:46.362 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:04:51.377 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:04:51.377 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:04:56.394 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:04:56.394 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:05:01.412 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:05:01.412 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:05:06.423 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:05:06.423 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:05:11.439 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:05:11.439 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:05:16.459 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:05:16.459 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:05:21.479 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:05:21.479 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:05:26.491 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:05:26.491 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:05:31.509 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:05:31.510 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:05:36.519 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:05:36.519 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:05:41.535 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:05:41.535 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:05:46.545 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:05:46.545 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:05:51.563 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:05:51.563 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:05:56.576 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:05:56.576 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:06:01.586 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:06:01.586 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:06:06.598 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:06:06.598 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:06:11.613 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:06:11.613 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:06:16.619 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:06:16.620 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:06:21.630 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:06:21.630 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:06:26.634 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:06:26.634 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:06:31.641 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:06:31.641 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:06:36.653 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:06:36.653 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:06:41.663 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:06:41.663 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:06:46.672 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:06:46.672 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:06:51.684 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:06:51.684 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:06:56.698 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:06:56.698 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:07:01.713 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:07:01.713 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:07:06.725 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:07:06.725 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:07:11.737 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:07:11.738 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:07:16.748 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:07:16.749 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:07:21.763 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:07:21.763 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:07:26.775 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:07:26.775 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:07:31.788 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:07:31.788 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:07:36.794 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:07:36.794 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:07:41.801 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:07:41.801 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:07:46.815 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:07:46.815 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:07:51.823 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:07:51.823 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:07:56.828 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:07:56.828 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:08:01.836 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:08:01.837 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:08:06.843 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:08:06.843 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:08:11.850 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:08:11.850 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:08:17.858 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:08:17.858 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:08:21.871 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:08:21.871 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:08:26.880 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:08:26.880 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:08:31.888 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:08:31.888 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:08:36.893 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:08:36.893 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:08:41.905 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:08:41.905 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:08:46.920 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:08:46.920 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:08:51.926 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:08:51.926 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:08:56.933 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:08:56.933 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:09:01.941 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:09:01.941 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:09:06.948 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:09:06.949 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:09:11.953 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:09:11.954 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:09:16.971 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:09:16.971 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:09:21.977 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:09:21.978 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:09:26.982 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:09:26.982 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:09:31.985 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:09:31.986 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:09:36.994 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:09:36.994 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:09:41.999 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:09:41.999 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:09:47.011 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:09:47.011 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:09:52.019 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:09:52.019 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:09:57.028 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:09:57.028 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:10:02.043 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:10:02.043 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:10:07.048 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:10:07.048 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:10:12.057 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:10:12.057 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:10:17.080 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:10:17.081 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:10:22.089 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:10:22.089 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:10:27.093 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:10:27.093 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:10:32.099 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:10:32.099 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:10:37.105 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:10:37.105 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:10:42.127 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:10:42.127 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:10:47.135 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:10:47.135 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:10:52.140 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:10:52.140 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:10:57.148 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:10:57.148 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:11:02.155 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:11:02.155 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:11:07.162 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:11:07.162 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:11:12.183 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:11:12.184 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:11:17.189 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:11:17.189 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:11:22.203 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:11:22.203 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:11:27.210 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:11:27.210 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:11:32.249 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:11:32.249 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:11:37.253 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:11:37.253 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:11:42.260 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:11:42.260 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:11:47.300 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:11:47.300 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:11:52.307 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:11:52.307 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:11:57.343 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:11:57.344 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:12:02.348 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:12:02.348 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:12:07.351 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:12:07.351 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:12:12.357 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:12:12.358 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:12:17.397 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:12:17.397 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:12:22.402 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:12:22.403 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:12:27.412 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:12:27.412 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:12:32.450 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:12:32.450 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:12:37.453 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:12:37.454 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:12:42.498 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:12:42.498 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:12:47.504 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:12:47.504 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:12:52.513 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:12:52.513 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:12:58.561 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:12:58.561 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:13:02.598 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:13:02.598 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:13:07.605 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:13:07.605 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:13:12.613 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:13:12.613 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:13:17.651 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:13:17.651 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:13:22.662 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:13:22.662 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:13:27.702 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:13:27.702 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:13:32.707 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:13:32.707 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:13:37.714 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:13:37.714 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:13:42.754 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:13:42.754 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:13:47.760 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:13:47.760 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:13:52.803 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:13:52.803 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:13:57.807 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:13:57.808 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:14:02.816 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:14:02.816 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:14:07.857 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:14:07.857 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:14:12.865 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:14:12.865 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:14:17.908 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:14:17.908 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:14:22.954 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:14:22.954 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:14:27.962 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:14:27.962 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:14:33.006 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:14:33.006 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:14:38.014 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:14:38.014 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:14:43.056 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:14:43.056 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:14:48.066 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:14:48.066 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:14:53.105 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:14:53.105 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:14:58.112 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:14:58.112 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:15:03.117 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:15:03.117 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:15:08.154 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:15:08.154 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:15:13.162 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:15:13.162 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:15:18.167 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:15:18.167 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:15:23.202 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:15:23.202 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:15:28.205 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:15:28.205 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:15:33.208 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:15:33.208 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:15:38.216 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:15:38.216 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:15:43.255 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:15:43.255 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:15:48.263 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:15:48.263 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:15:53.307 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:15:53.307 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:15:58.354 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:15:58.354 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:16:03.364 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:16:03.364 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:16:08.407 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:16:08.408 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:16:13.416 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:16:13.416 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:16:18.460 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:16:18.460 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:16:23.464 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:16:23.465 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:16:28.508 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:16:28.508 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:16:33.512 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:16:33.512 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:16:38.518 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:16:38.518 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:16:43.559 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:16:43.559 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:16:48.563 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:16:48.563 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:16:53.567 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:16:53.567 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:16:58.604 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:16:58.604 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:17:03.602 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:17:03.602 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:17:08.640 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:17:08.641 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:17:13.642 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:17:13.642 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:17:18.644 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:17:18.645 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:17:23.689 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:17:23.689 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:17:28.692 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:17:28.692 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:17:33.694 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:17:33.694 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:17:38.732 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:17:38.732 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:17:43.738 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:17:43.738 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:17:48.744 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:17:48.745 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:17:53.781 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:17:53.781 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:17:58.786 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:17:58.786 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:18:03.794 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:18:03.795 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:18:08.831 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:18:08.831 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:18:13.834 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:18:13.835 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:18:18.841 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:18:18.841 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:18:23.883 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:18:23.883 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:18:28.890 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:18:28.890 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:18:33.936 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:18:33.936 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:18:38.942 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:18:38.942 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:18:43.982 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:18:43.982 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:18:48.987 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:18:48.987 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:18:53.996 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:18:53.996 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:18:59.032 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:18:59.032 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:19:04.040 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:19:04.040 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:19:09.046 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:19:09.046 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:19:14.083 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:19:14.083 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:19:19.089 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:19:19.089 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:19:24.092 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:19:24.092 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:19:29.134 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:19:29.134 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:19:34.142 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:19:34.142 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:19:39.145 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:19:39.145 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:19:44.186 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:19:44.186 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:19:49.192 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:19:49.192 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:19:54.195 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:19:54.195 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:19:59.234 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:19:59.235 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:20:04.242 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:20:04.242 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:20:09.282 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:20:09.282 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:20:14.288 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:20:14.289 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:20:19.298 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:20:19.299 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:20:24.336 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:20:24.336 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:20:29.339 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:20:29.339 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:20:34.344 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:20:34.344 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:20:39.386 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:20:39.386 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:20:44.394 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:20:44.394 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:20:49.436 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:20:49.436 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:20:54.446 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:20:54.446 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:20:59.487 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:20:59.487 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:21:04.495 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:21:04.495 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:21:09.537 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:21:09.537 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:21:14.544 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:21:14.544 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:21:19.587 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:21:19.587 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:21:24.594 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:21:24.594 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:21:30.637 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:21:30.637 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:21:34.644 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:21:34.644 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:21:39.688 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:21:39.688 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:21:44.697 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:21:44.697 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:21:49.737 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:21:49.738 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:21:55.748 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:21:55.749 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:21:59.786 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:21:59.786 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:22:04.793 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:22:04.794 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:22:09.834 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:22:09.835 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:22:14.843 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:22:14.844 on_new_message int(type)=35 ret=0
+D 2019-03-10.13:22:19.850 sqlite error code=8, attempt to write a readonly database
+E 2019-03-10.13:22:19.850 on_new_message int(type)=35 ret=0

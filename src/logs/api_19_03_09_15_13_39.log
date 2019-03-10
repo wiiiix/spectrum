@@ -1,0 +1,4 @@
+I 2019-03-09.15:13:39.759 Beam Wallet API 1.2.4416 (testnet)
+I 2019-03-09.15:13:39.759 Rules signature: cfa9cf691cfe775a
+E 2019-03-09.15:13:39.759 unable to resolve node address: ${this.opts.host}:${this.opts.port}
+D 2019-03-09.15:13:39.759 ~Reactor
