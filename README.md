@@ -19,62 +19,78 @@ var Server = require('spectrum').Server;
 
 // these settings can be changed using Server.defaults as well, for every new server up
 var server = new Server({
-  /**
-   * RPC to listen interface for this server
-   */
-  rpc     : {
-    /**
-     * Bind to address
-     *
-     * @type {String}
-     */
-    host: 'localhost',
-    /**
-     * RPC port
-     *
-     * @type {Number}
-     */
-    port: 1337,
-    /**
-     * RPC password, this needs to be a SHA256 hash, defaults to 'password'
-     * To create a hash out of your password, launch node.js and write
-     *
-     * require('crypto').createHash('sha256').update('password').digest('hex');
-     *
-     * @type {String}
-     */
-    password: '5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8',
-    /**
-     * Mode to listen. By default listen only on TCP, but you may use 'http' or 'both' (deal
-     * with HTTP and TCP at same time)
-     */
-    mode: 'tcp'
-  },
-  /**
-   * The server settings itself
-   */
-  settings: {
-    /**
-     * Address to set the X-Stratum header if someone connects using HTTP
-     * @type {String}
-     */
-    hostname: 'localhost',
-    /**
-     * Max server lag before considering the server "too busy" and drop new connections
-     * @type {Number}
-     */
-    toobusy : 70,
-    /**
-     * Bind to address, use 0.0.0.0 for external access
-     * @type {string}
-     */
-    host    : 'localhost',
-    /**
-     * Port for the stratum TCP server to listen on
-     * @type {Number}
-     */
-    port    : 3333
-  }
+    rpc: {
+        /**
+         * Address of BEAM node
+         *
+         * @type {String}
+         */
+        host: "localhost",
+        /**
+         * BEAM node port
+         *
+         * @type {Number}
+         */
+        port: 11005,
+        /**
+         * wallet password
+         *
+         * @type {String}
+         */
+        pass: 'hskang77',
+        /**
+         * wallet.db path
+         *
+         * @type {String}
+         */
+        wallet_path: '../bin/testnet/wallet/wallet.db',
+        /**
+         * use http
+         *
+         * @type {Number}
+         */
+        use_http: 0,
+        /**
+         * IP whitelist
+         *
+         * @type {Array(String)}
+         */
+        ip_whitelist: []
+    },
+    authorization: {
+        /**
+         * Use Access Control List (ACL)
+         *
+         * @type {Bool}
+         */
+        use_acl: false,
+        /**
+         * Path to ACL file
+         *
+         * @type {String}
+         */
+        acl_path: null
+    },
+    tls: {
+        /**
+         * Use TLS protocol
+         *
+         * @type {Number}
+         */
+        use_tls: 0,
+        /**
+         * Path to TLS Certificate (=wallet_api.crt)
+         *
+         * @type {String}
+         */
+        tls_cert: null,
+        /**
+         * Path to TLS private key (=wallet_api.key)
+         *
+         * @type {String}
+         */
+        tls_key: null
+    }
 });
 
 server.on('mining', function(req, deferred){
