@@ -37,7 +37,7 @@ var server = new Server({
          *
          * @type {String}
          */
-        pass: 'hskang77',
+        pass: 'password',
         /**
          * wallet.db path
          *
